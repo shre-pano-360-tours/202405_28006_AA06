@@ -453,7 +453,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "202405_28006_AA06",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
