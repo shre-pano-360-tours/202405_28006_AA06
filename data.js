@@ -409,14 +409,14 @@ var APP_DATA = {
           "yaw": 1.3386999987249375,
           "pitch": 0.4690063306799299,
           "rotation": 4.71238898038469,
-          "target": "9-bao-suite"
+          "target": "9-bao-01"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "9-bao-suite",
-      "name": "BAÑO SUITE",
+      "id": "9-bao-01",
+      "name": "BAÑO 01",
       "levels": [
         {
           "tileSize": 256,
